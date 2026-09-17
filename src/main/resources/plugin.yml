@@ -1,0 +1,14 @@
+name: SkyMineStats
+version: 1.0.0
+main: ir.skymine.stats.SkyMineStatsPlugin
+api-version: '1.21'
+author: TheROMZ52
+description: Advanced statistics and live analytics for SkyMine
+commands:
+  skystats:
+    description: SkyMine statistics
+    aliases: [skymine-stats, skymine]
+    usage: /skystats [top|save]
+permissions:
+  skymine.stats.save:
+    default: op

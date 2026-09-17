@@ -1,0 +1,6 @@
+autosave-seconds: 60
+http:
+  enabled: true
+  port: 8787
+  require-token: false
+  token: "CHANGE-ME"
