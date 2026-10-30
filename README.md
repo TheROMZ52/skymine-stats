@@ -1,3 +1,5 @@
+[English](README.md) · [فارسی](README.fa.md)
+
 # SkyMine Stats
 
 Advanced statistics and live analytics plugin built specifically for **SkyMine**.
