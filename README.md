@@ -2,6 +2,7 @@
 
 # SkyMine Stats
 
+Because “I played a lot” is not exactly a useful leaderboard metric.
 Advanced statistics and live analytics plugin built specifically for **SkyMine**.
 
 ### Stack
